@@ -1,0 +1,8 @@
+STEPS:
+1. Download the files onto your OS.
+2. Open Chrome and go to chrome://extensions
+3. Click the developer mode option
+4. Click Load unpacked extension
+5. Find the folder where you downloaded the files in your OS
+6. A Y button is created near the chrome address bar
+7. click the button while on youtube
